@@ -1,6 +1,6 @@
 # 📂 Business Request & Planning  
 
-This folder contains project requirements, business requests, and user stories that define the scope of the sales analysis project.  
+📌This folder contains project requirements, business requests, and user stories that define the scope of the sales analysis project.  
 
 ## 📄 Files Included  
 - **Business Request - Mail from Sarah.docx** – Initial request email outlining the project objectives.  
